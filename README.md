@@ -196,7 +196,9 @@ Committed to ethical, transparent, and user-first digital experiences:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CodeByTushu&label=Profile+Views&color=0ea5e9&style=flat-square" alt="Profile Views"/>
+  <a href="https://github.com/CodeByTushu">
+    <img src="https://api.visitorbadge.io/api/visitors?path=CodeByTushu.CodeByTushu&label=Profile%20Views&labelColor=%231e293b&countColor=%230ea5e9&style=flat-square" alt="Profile Views"/>
+  </a>
   <br><br>
   <sub>Designed &amp; Maintained with ❤️ by <strong>CodeByTushu</strong> • <em>Learn • Build • Share • Grow</em></sub>
 </p>
